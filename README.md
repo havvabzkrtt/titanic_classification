@@ -1,6 +1,6 @@
 # Titanic Veri Seti 
 
-Bu veri seti, Titanic gemisinin yolcularıyla ilgili bilgileri içerir. Her bir yolcunun yaş, cinsiyet, sınıf gibi özellikleri ile hayatta kalıp kalmadığı bilgisi bulunur
+Bu veri seti, Titanic gemisinin yolcularıyla ilgili bilgileri içerir. Her bir yolcunun yaş, cinsiyet, sınıf gibi özellikleri ile hayatta kalıp kalmadığı bilgisi bulunur.
 
 ## Veri Seti Bİlgileri 
 
