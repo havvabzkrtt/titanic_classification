@@ -176,6 +176,8 @@ Veri eğitim ve test seti olarak bölünür.
 - ***F1 Score:*** Bir sınıflandırma modelinin performansını değerlendirmek için kullanılan bir ölçümdür. Bu ölçüm, modelin doğruluk (precision) ve duyarlılık (recall) metriklerinin harmonik ortalaması ile elde edilir.
 
 - ***Accuracy Score:*** Bir sınıflandırma modelinin doğruluk oranını gösterir ve modelin doğru sınıflandırma oranını yüzde cinsinden belirtir.
+
+
 - ***5 Kat Çapraz Doğrulama Doğruluk Skoru:*** Modelin genelleme performansını değerlendirmek için kullanılan bir yöntemdir; veri kümesini 5 parçaya böler ve her bir parçayı sırayla test seti olarak kullanarak modelin doğruluğunu değerlendirir.
 - ***Confusion Matrix (Karışıklık Matrisleri):*** Bir sınıflandırma modelinin performansını değerlendirmek için kullanılan bir matristir ve modelin doğru ve yanlış sınıflandırma sonuçlarını gösterir.
 
@@ -189,7 +191,7 @@ Veri eğitim ve test seti olarak bölünür.
     * False Negative (FN): Gerçekte pozitif olan ancak negatif olarak tahmin edilen örnek sayısı. Bu durumda, 41.
     * True Positive (TP): Gerçekte pozitif olan ve pozitif olarak tahmin edilen örnek sayısı. Bu durumda, 70.
 
-
+![metrik_hesaplamaları](images/metrik_hesaplamaları.PNG) 
 
 ### **Ayrıca modellerin hiperparametre optimizasyonu için *RandomizedSearchCV* kullanılmıştır.**
 
