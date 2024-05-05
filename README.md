@@ -7,7 +7,7 @@ Bu veri seti, Titanic gemisinin yolcularıyla ilgili bilgileri içerir. Her bir 
 * Veri seti bir CSV dosyasında yer alır. (dataset/titanic_dataset.csv)
 * Veri seti boyutu : (891, 12)
 
-### CSV Dosyaınındaki Sütunlar ve Anlamları
+### CSV Dosyasındaki Sütunlar ve Anlamları
 
 * Survived: Yolcunun hayatta kalıp kalmadığını belirten ikili bir değer (0: Hayatta kalmadı, 1: Hayatta kaldı).
 * Pclass: Yolcunun seyahat ettiği sınıfı gösteren kategorik bir değer (1, 2 veya 3).
@@ -21,7 +21,7 @@ Bu veri seti, Titanic gemisinin yolcularıyla ilgili bilgileri içerir. Her bir 
 * Embarked: Yolcunun gemiye hangi limandan bindiğini belirten kategorik bir değer (C: Cherbourg, Q: Queenstown, S: Southampton).
 
 
-# PROJE AMAÇ 
+# PROJE 
 
 Bu veri seti, hayatta kalma tahminlerinin sınıflandırma problemlerini çözmek için kullanılacaktır. Bu işlem için belirli aşamalar olacaktır.
 
